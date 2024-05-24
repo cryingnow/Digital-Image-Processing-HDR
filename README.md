@@ -1,5 +1,4 @@
-![image](https://github.com/cryingnow/Digital-Image-Processing-HDR/assets/134131108/18f49146-eb76-4c9f-9eac-dd4fccf73af9)This is my resources for the final project of Digital Image Processing lesson 2024 fall in PKU.  
-
+This is my resources for the final project of Digital Image Processing lesson 2024 fall in PKU.  
 
 
 It contains：  
